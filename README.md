@@ -3,6 +3,7 @@
 **Gemini Chat Pro** to aplikacja desktopowa, która umożliwia prowadzenie rozmów z modelem językowym Google Gemini 2.5. Flash. 
 
 
+![Apka](https://github.com/user-attachments/assets/5421aeba-80a4-4faa-8455-092d67fee22a)
 
 
 **Zalety:**
