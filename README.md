@@ -3,7 +3,7 @@
 **Gemini Chat Pro** to aplikacja desktopowa, która umożliwia prowadzenie rozmów z modelem językowym Google Gemini 2.5. Flash. 
 
 
-![Apka](https://github.com/user-attachments/assets/5421aeba-80a4-4faa-8455-092d67fee22a)
+![Apka](https://github.com/user-attachments/assets/5e1dc96f-88e1-4b4e-868c-5805c274f17b)
 
 
 **Zalety:**
@@ -17,7 +17,7 @@
 
 Jeśli odzew będzie duży (lub jeśli będą mnie te wady bardzo wkurzać) to postaram się dodać te funkcje.
 
-Jak mam być szczery, to tak w połowie robienia tej aplikacji się dowiedziałem że chatGPT ma takie coś, ale go osobiście nie lubię, ze względu na jego przełączenie do wersji 3.5 po kilku promptach, a na dodatek Gemini 2.5. Flash ma 65535 output tokenów, co pozwala na bardzo długie wypowiedzi.
+Jak mam być szczery, to tak w połowie robienia tej aplikacji się dowiedziałem że chatGPT ma opcję dawania prepromptów, ale go osobiście nie lubię, ze względu na jego przełączenie do wersji 3.5 po kilku promptach, a na dodatek Gemini 2.5. Flash ma 65535 output tokenów, co pozwala na bardzo długie wypowiedzi.
 
 ## **Instalacja**
 
