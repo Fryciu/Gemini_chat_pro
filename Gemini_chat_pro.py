@@ -361,10 +361,16 @@ class GeminiChatApp:
         input_frame = ttk.Frame(self.right_panel)
         input_frame.pack(fill=tk.X, pady=(10, 0))
         
+        ttk.Label(
+            input_frame, # Zmieniono na self.config_frame
+            text="Wiadomość:"
+        ).pack(side=tk.LEFT)
+        
         self.user_input = ttk.Entry(
             input_frame,
             font=('Arial', 11)
         )
+        
         self.user_input.pack(
             side=tk.LEFT, 
             fill=tk.X, 
